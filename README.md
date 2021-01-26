@@ -31,9 +31,9 @@
 <!-- - ⚡ Fun fact: I spend almost 12 hours listening songs everyday. -->
 
 [![Twitter: devil_kanxo](https://img.shields.io/twitter/follow/devil_kanxo?style=social)](https://twitter.com/devil_kanxo)
-[![Linkedin: ramesh-pokhrel](https://img.shields.io/badge/-ramesh-pokhrel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramesh-pokhrel-ab4846154/)](https://www.linkedin.com/in/ramesh-pokhrel-ab4846154/)
+[![Linkedin: ramesh-pokhrel](https://img.shields.io/badge/ramesh_pokhrel-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-pokhrel-ab4846154/)
 [![GitHub RameshPokharel](https://img.shields.io/github/followers/RameshPokharel?label=follow&style=social)](https://github.com/RameshPokharel)
-[![website](https://img.shields.io/badge/PortfolioWebsite-kanxoramesh.web?style=flat-square&logo=google-chrome)](https://kanxoramesh.web.app/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-kanxoramesh.web-2648ff?style=flat-square&logo=google-chrome)](https://kanxoramesh.web.app/)
 
 
 **Languages and Tools:**  
