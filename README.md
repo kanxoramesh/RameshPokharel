@@ -12,7 +12,7 @@
 [![Twitter: devil_kanxo](https://img.shields.io/twitter/follow/devil_kanxo?style=social)](https://twitter.com/devil_kanxo)
 [![Linkedin: ramesh-pokhrel](https://img.shields.io/badge/ramesh_pokhrel-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-pokhrel-ab4846154/)
 [![GitHub RameshPokharel](https://img.shields.io/github/followers/kanxoramesh?label=follow&style=social)](https://github.com/RameshPokharel)
-[![Medium kanxoramesh](https://img.shields.io/badge/PortfolioWebsite-Medium-2648ff?style=flat-square&logo=google-chrome)](kanxoramesh.medium.com)
+[![Medium kanxoramesh](https://img.shields.io/badge/PortfolioWebsite-Medium-2648ff?style=flat-square&logo=google-chrome)](https://kanxoramesh.medium.com)
 
 
 **Languages and Tools:**  
