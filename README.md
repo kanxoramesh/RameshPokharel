@@ -11,9 +11,6 @@
 <a href="https://github.com/kanxoramesh">
   <img align="left" alt="Ramesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/ramesh.pokharel.1428/">
-  <img align="left" alt="Ramesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://www.youtube.com/channel/UCRBdQSIRLe-cZA-FPut9MKw">
   <img align="left" alt="Ramesh's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
